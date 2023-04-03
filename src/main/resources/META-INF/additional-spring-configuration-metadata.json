@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cors.all",
+      "type": "java.lang.String",
+      "description": "Description for cors.all."
+  }
+] }
